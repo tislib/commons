@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/tislib/commons.svg?branch=master)](https://travis-ci.com/tislib/website-parser)
